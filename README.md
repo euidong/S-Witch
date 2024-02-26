@@ -15,17 +15,23 @@ In modern network structures that become more complex and emphasize flexibility,
 
 ### Overall Architecture
 
+Our system consists of 3 components: S-Witch, Digital Twin, and Web UI.
+
 <div align="center">
   <img src="./imgs/overall-architecture.png" width="500px" />
 </div>
 
 ### Chaining Architecture
 
+Our connection strategy is as follows.
+
 <div align="center">
-  <img src="./imgs/llm-chaining.png" width="500px" />
+  <img src="./imgs/llm-chaining.png" width="800px" />
 </div>
 
 ## Result
+
+### Web View (Chatting)
 
 <div align="center">
   <img src="./imgs/web-ui.png" width="500px" />
