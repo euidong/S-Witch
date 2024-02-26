@@ -1,0 +1,3 @@
+[submodule "gns3-web-ui"]
+	path = gns3-web-ui
+	url = https://github.com/euidong/gns3-web-ui
