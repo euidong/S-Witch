@@ -43,3 +43,11 @@ Our connection strategy is as follows.
 <div align="center">
   <img src="./imgs/web-ui.png" width="500px" />
 </div>
+
+## How to run
+
+1. download and run [GNS3 Server-2.2.44](https://github.com/GNS3/gns3-server).
+2. go to [api directory](/api) and run S-Witch component.
+3. go to [GNS3 Web UI](https://github.com/euidong/gns3-web-ui) and run GNS3 Web UI.
+   - you must consider [connection with S-Witch and GNS3 Server Component](https://github.com/euidong/S-Witch/README.md#overall-architecture).
+4. make a topology and test. happy hacking~🤗
