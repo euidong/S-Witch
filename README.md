@@ -18,6 +18,10 @@
 
 In modern network structures that become more complex and emphasize flexibility, the demand for the automation of network management and Intent Driven Network continues to increase. In response, technology utilizing virtualization and control plane separation has developed, and research on network automation based on this is being actively conducted. However, limited studies focus on building an automated network in environments comprised of traditional switches that lack support for these advanced functionalities. Consequently, this study presents a technology proposal that creates the CLI command for existing commercial switches by incorporating user requests conveyed through natural language. For this purpose, we applied LLM for generating and Network Digital Twin for verification environment.
 
+## Published at
+
+[_E. -D. Jeong, H. -G. Kim, S. Nam, J. -H. Yoo and J. W. -K. Hong, "S-Witch: Switch Configuration Assistant with LLM and Prompt Engineering," NOMS 2024-2024 IEEE Network Operations and Management Symposium, Seoul, Korea, Republic of, 2024, pp. 1-7, doi: 10.1109/NOMS59830.2024.10575007. keywords: {Automation;Natural languages;Buildings;Digital twins;Proposals;Virtualization;Network Configuration Automation;Intent Driven Network;Large Language Model;Prompt Engineering}_](https://ieeexplore.ieee.org/document/10575007)
+
 ## Architecture
 
 ### Overall Architecture
