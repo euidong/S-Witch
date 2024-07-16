@@ -20,7 +20,7 @@ In modern network structures that become more complex and emphasize flexibility,
 
 ## Published at
 
-[_E. -D. Jeong, H. -G. Kim, S. Nam, J. -H. Yoo and J. W. -K. Hong, "S-Witch: Switch Configuration Assistant with LLM and Prompt Engineering," NOMS 2024-2024 IEEE Network Operations and Management Symposium, Seoul, Korea, Republic of, 2024, pp. 1-7, doi: 10.1109/NOMS59830.2024.10575007. keywords: {Automation;Natural languages;Buildings;Digital twins;Proposals;Virtualization;Network Configuration Automation;Intent Driven Network;Large Language Model;Prompt Engineering}_](https://ieeexplore.ieee.org/document/10575007)
+E. -D. Jeong, H. -G. Kim, S. Nam, J. -H. Yoo and J. W. -K. Hong, ["S-Witch: Switch Configuration Assistant with LLM and Prompt Engineering"](https://ieeexplore.ieee.org/document/10575007), NOMS 2024-2024 IEEE Network Operations and Management Symposium, Seoul, Korea, Republic of, 2024, pp. 1-7, doi: 10.1109/NOMS59830.2024.10575007. keywords: {Automation;Natural languages;Buildings;Digital twins;Proposals;Virtualization;Network Configuration Automation;Intent Driven Network;Large Language Model;Prompt Engineering}
 
 ## Architecture
 
